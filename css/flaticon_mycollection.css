@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.ttf?89b6d5203bcabc1866deeae962ffeb42") format("truetype"),
+url("./flaticon_mycollection.woff?89b6d5203bcabc1866deeae962ffeb42") format("woff"),
+url("./flaticon_mycollection.woff2?89b6d5203bcabc1866deeae962ffeb42") format("woff2"),
+url("./flaticon_mycollection.eot?89b6d5203bcabc1866deeae962ffeb42#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.svg?89b6d5203bcabc1866deeae962ffeb42#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-agreement:before {
+    content: "\f101";
+}
+.flaticon-law:before {
+    content: "\f102";
+}
+.flaticon-legal-document:before {
+    content: "\f103";
+}
+.flaticon-corporate-laws:before {
+    content: "\f104";
+}
+.flaticon-justice:before {
+    content: "\f105";
+}
+.flaticon-court:before {
+    content: "\f106";
+}
+.flaticon-justice-1:before {
+    content: "\f107";
+}
+.flaticon-advocate:before {
+    content: "\f108";
+}
+.flaticon-law-1:before {
+    content: "\f109";
+}
+.flaticon-law-2:before {
+    content: "\f10a";
+}
+.flaticon-accident:before {
+    content: "\f10b";
+}
+.flaticon-accident-1:before {
+    content: "\f10c";
+}
+.flaticon-accident-2:before {
+    content: "\f10d";
+}
+.flaticon-fender-bender:before {
+    content: "\f10e";
+}
+.flaticon-accident-3:before {
+    content: "\f10f";
+}
+.flaticon-accident-4:before {
+    content: "\f110";
+}
+.flaticon-bump:before {
+    content: "\f111";
+}
+.flaticon-brain:before {
+    content: "\f112";
+}
+.flaticon-accident-5:before {
+    content: "\f113";
+}
+.flaticon-accident-car:before {
+    content: "\f114";
+}
