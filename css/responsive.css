@@ -1,5 +1,5 @@
 /*
-Template: Nutritius - Nutrition & Health Services HTML Template
+Template: Dietlagom - Where moderation meets wellness
 Author: peacefulqode.com
 Version: 1.0
 Design and Developed by: PeacefulQode
